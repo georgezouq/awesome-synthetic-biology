@@ -30,10 +30,11 @@
 - [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) - GenBank ® is the NIH genetic sequence database, an annotated collection of all publicly available DNA sequences.
 - [Bio101](https://bio-protocol.org/bio101) - An open platform for life scientists to share, find, and discuss research protocols.
 
-## Startups
+## Startups & Companies
 
 - [Planta](https://planta.bio/) - Plant synthetic biology from idea to product.
-- [Ginkgo Bioworks](https://www.ginkgobioworks.com/) - UUses the most advanced technology on the planet—biology—to grow better products.
+- [Ginkgo Bioworks](https://www.ginkgobioworks.com/) - Uses the most advanced technology on the planet—biology—to grow better products.
+- [Amyris](https://amyris.com/) - Proven Lab-to-Market™ operating system has successfully produced molecules bioidentical to those that exist in nature.
 
 ## Researchers
 
