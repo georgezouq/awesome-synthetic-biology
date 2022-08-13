@@ -43,7 +43,12 @@
 
 ## Courses & Papers & Books & Articles
 
+- [Deep Learning for the Life Sciences](https://www.oreilly.com/library/view/deep-learning-for/9781492039822/) - Teaches developers and scientists how to use deep learning for genomics, chemistry, biophysics, microscopy, medical analysis, and other fields.
 - [Amyris Investment Case](https://fallacyalarm.substack.com/p/amyris-investment-case-21-12-22) - The leader in synthetic biology, a revolutionary production technology.
+
+## Code
+
+- [deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
 
 ## Contribute
 
