@@ -41,10 +41,13 @@
 - [igem Teams](https://airtable.com/shrqoByHc3pKYKyKW/tblb1REO5NYXRgiIv?backgroundColor=green&viewControls=on) - iGEM (International Genetically Engineered Machine) team list.
 - [Sebastian S. Cocioba](https://twitter.com/ATinyGreenCell) - Amateur 🌿 Biologist • Aspiring 🌻 Designer Independent Researcher at Binomica Labs.
 
-## Courses & Papers & Books & Articles
+## Courses & Papers & Articles
+
+- [Amyris Investment Case](https://fallacyalarm.substack.com/p/amyris-investment-case-21-12-22) - The leader in synthetic biology, a revolutionary production technology.
+
+## Books
 
 - [Deep Learning for the Life Sciences](https://www.oreilly.com/library/view/deep-learning-for/9781492039822/) - Teaches developers and scientists how to use deep learning for genomics, chemistry, biophysics, microscopy, medical analysis, and other fields.
-- [Amyris Investment Case](https://fallacyalarm.substack.com/p/amyris-investment-case-21-12-22) - The leader in synthetic biology, a revolutionary production technology.
 
 ## Code
 
