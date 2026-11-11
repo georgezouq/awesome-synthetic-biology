@@ -23,6 +23,7 @@
 ## Software
 
 - [Gromacs](https://www.gromacs.org/) - A free and open-source software suite for high-performance molecular dynamics and output analysis.
+- [GenePad](https://genepad.cn) - A free and lightweight gene map editor for molecular cloning: plasmid maps, sequence editing, restriction sites, Sanger trace alignment, and FASTQ viewing; runs on Windows, macOS, Linux, and Android.
 
 ## Database
 
